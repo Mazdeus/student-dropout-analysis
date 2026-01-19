@@ -205,13 +205,3 @@ if st.button("Prediksi Status Siswa", type="primary"):
     with st.expander("Lihat Data Setelah Preprocessing"):
         scaled_df = pd.DataFrame(data_scaled, columns=selected_features)
         st.dataframe(scaled_df, use_container_width=True)
-
-# ===================== FOOTER =====================
-st.markdown("---")
-st.markdown("""
-<div style='text-align: center; color: gray;'>
-    <p>🎓 Student Dropout Prediction - Jaya Jaya Institut</p>
-    <p>Dibuat dengan Streamlit | Model: Random Forest</p>
-</div>
-""", unsafe_allow_html=True)
-

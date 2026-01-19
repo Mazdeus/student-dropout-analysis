@@ -225,7 +225,7 @@ Aplikasi ini memiliki fitur:
 
 ### Link Akses Prototype (Deployment)
 
-🔗 **Link Streamlit Cloud:** [Student Dropout Prediction App](https://student-dropout-prediction-jayajayainstitut.streamlit.app/)
+🔗 **Link Streamlit Cloud:** [Student Dropout Prediction App](https://mazdeus-student-dropout-analysis.streamlit.app/)
 
 *Catatan: Jika link tidak tersedia, jalankan aplikasi secara lokal menggunakan langkah-langkah di atas.*
 
